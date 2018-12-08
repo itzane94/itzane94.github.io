@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/lewiscutey/vuepress-template#readme",
   "dependencies": {
+    "gitalk": "^1.4.1",
     "markdown-it-imsize": "^2.0.1",
     "markdown-it-task-lists": "^2.1.1",
     "vuepress": "^0.14.2",

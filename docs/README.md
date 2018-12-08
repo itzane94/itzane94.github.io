@@ -1,10 +1,10 @@
 ---
-heroText: Lewis
+heroText: zane
 activity: true
 hidden: true
-tagline: '如果说人生是一场旅行，而我是这场旅行的主人!'
+tagline: '我认出风暴而激动如大海!'
 heroImage: /img/logo.png
 actionText: 了解更多 → 
 actionLink: /blog/
-footer: Copyright©  Lewis-2018
+footer: copyright©  zane❤2018
 ---

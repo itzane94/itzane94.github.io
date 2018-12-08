@@ -13,4 +13,4 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:<github name>/<project name>.git master:gh-pages
+git push -f git@github.com:itzane94/zane.git master:gh-pages

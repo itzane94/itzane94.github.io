@@ -1,38 +1,39 @@
 module.exports = {
     theme: 'yubisaki',
-    title: 'HOME', 
-    description: `vuepress blog`,
+    title: "zane's blog",
+    description: "zane's blog",
     head: [
         ['link', { rel: 'icon', href: `/favicon.ico` }]
     ],
-    base: '/blog/',
-    repo: 'https://github.com/lewiscutey/vuepress-template',
+    port:3000,
+    //base: '/zane/',
+    //repo: 'https://github.com/itzane94/zane',
     dest: './docs/.vuepress/dist',
     ga: '',
     serviceWorker: true,
     evergreen: true,
     themeConfig: {
-        background: `/img/`,
-        github: 'lewiscutey',
+        background: '#e6ecf0',
+        github: 'itzane94',
         logo: '/img/logo.png',
         accentColor: '#ac3e40',
         per_page: 6,
         date_format: 'yyyy-MM-dd HH:mm:ss',
         tags: true,
         comment: {
-            clientID: '',
-            clientSecret: '',
-            repo: '',  // blog of repo name
-            owner: '',  // github of name
-            admin: '', // github of name
+            clientID: '88781ce5a398415c3e22',
+            clientSecret: '758fe6833d7cd7ffce7104475994c65743bec92f',
+            repo: 'zane',  // blog of repo name
+            owner: 'itzane94',  // github of name
+            admin: 'itzane94', // github of name
             distractionFreeMode: false
         },
         nav: [
             {text: 'Blog', link: '/blog/', root: true},
-            {text: 'About', link: '/about/'},
-            {text: 'CSDN', link: 'http://www.cnblogs.com/lewiscutey/'},
-            {text: 'Github', link: 'https://github.com/lewiscutey'},
             {text: 'TAGS', link: '/tags/', tags: true},
+            {text: 'Github', link: 'https://github.com/itzane94'},
+            {text: '简书', link: 'https://www.jianshu.com/u/050ae06765e7'},
+            {text: '关于我', link: '/about/'},
         ]
     },
     markdown: {
