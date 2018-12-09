@@ -29,10 +29,10 @@ module.exports = {
             distractionFreeMode: false
         },
         nav: [
-            {text: 'Blog', link: '/blog/', root: true},
+            {text: 'BLOG', link: '/blog/', root: true},
             {text: 'TAGS', link: '/tags/', tags: true},
-            {text: 'Github', link: 'https://github.com/itzane94'},
-            {text: '简书', link: 'https://www.jianshu.com/u/050ae06765e7'},
+            {text: 'GITHUB', link: 'https://github.com/itzane94'},
+            {text: '网易云', link: 'https://music.163.com/#/user/home?id=300577130'},
             {text: '关于我', link: '/about/'},
         ]
     },

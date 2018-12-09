@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lewiscutey/vuepress-template.git"
+    "url": "git+https://github.com/itzane94/vuepress.git"
   },
   "keywords": [
     "vuepress",
@@ -19,12 +19,12 @@
     "vuepress-theme",
     "vuepress-theme-yubisaki"
   ],
-  "author": "lewis",
+  "author": "itzane94",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lewiscutey/vuepress-template/issues"
+    "url": "https://github.com/itzane94/vuepress/issues"
   },
-  "homepage": "https://github.com/lewiscutey/vuepress-template#readme",
+  "homepage": "https://www.4each.cn",
   "dependencies": {
     "gitalk": "^1.4.1",
     "markdown-it-imsize": "^2.0.1",

@@ -1,44 +1,21 @@
 ---
-title: hello
-date: '2018-08-04 16:46:31'
-tag: ['js', 'vue']
+title: hello world
+date: '2018-12-09 10:12:31'
+tag: ['php','hello world']
 meta:
   -
     name: description
-    content: null
+    content: hello world
   -
     name: keywords
-    content: null
+    content: hello world
 ---
-## hello world!
-<!-- more -->
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-:tada: :100:
-::: tip 哈哈大小
-This is a tip
-
-:::
-
-::: warning
-This is a warning
-:::
+```php
+<?php
+echo 'Hello World!';
+```
 
 ::: danger
-This is a dangerous warning
+本文作者：zane</br>
+版权声明：本博客所有文章除特别声明外，均采用 CC BY-NC-SA 3.0 许可协议。转载请注明出处！
 :::
-
-``` js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
