@@ -6,6 +6,8 @@ zane,
 ### :book: todo-list
 + python
 + vue
-+ swoole
++ golang
++ android
+
 ### :email: contact
 email：i4wards@163.com
